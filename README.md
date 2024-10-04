@@ -111,8 +111,6 @@ Potential improvements for this project include:
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or feedback, reach out at `mohammedmanalodi@gmail.com`.
