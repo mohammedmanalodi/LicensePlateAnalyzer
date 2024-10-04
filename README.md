@@ -1,7 +1,3 @@
-Absolutely! Adding a README file is a great way to provide context and guidance for your project. Here's a sample `README.md` for your License Plate Recognition project:
-
----
-
 # License Plate Recognition using YOLO and OCR
 
 ## Project Overview
